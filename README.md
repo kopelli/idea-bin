@@ -107,5 +107,15 @@ Essentially reverse-engineer/re-implement the aspect of Dwarven Fortress that cr
 
 ---
 
+## RSS Reader with AI assistance
+
+It's easy to get overwhelmed by RSS feeds, so there should be an easier way to find the signal among the noise. Things like fetching all the content of an article if the feed is a truncated/alternative version of it; Pulling articles from link aggregation feeds; De-duplication of content if it surfaces from multiple feeds (or pulled as part of the link aggregation feeds); Estimated read times based on the user's past time spent on articles; User's interests, both from manually entering them and from the articles that the user opens to read.
+
+### Known Projects/Implementations
+
+* _none_
+
+---
+
 # License
 The content presented here is licensed under CC0-1.0 (Creative Commons Zero v1.0 Universal). This means it is essentially public domain. Take these ideas and run with them. No requirement to do so, but a link to any idea that's implemented would be outstanding.
